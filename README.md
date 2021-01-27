@@ -23,6 +23,7 @@ Copies are hosted unofficially at [https://pbpki.com](https://pbpki.com).
 PurebredRegistration_1.4.179.0_MECH.zip | c020d2317dcf79de6b968e4227e97aceb59fdc7c627ff67d3ff3547f934ee476 |
 PurebredRegistration_1.4.182.0_MECH.zip | 8e4dc6c0f7064289241ef7157e6ae10f5be844e7b465cd95aebff6b60e6b1fa0 |
 PurebredRegistration_1.4.185.0_MECH.zip | 61bffa680c79dacb10813d82dd1d7073657214c4d455052b897cd081a0b67d61 |
+|PurebredRegistration_1.4.186.0_MECH.zip  | f9c56aa2e33aa8dd985589971b48f3a915a70561deaebe5899d1d614ebb5c07a |
 |||
 
 ### Android - MECH
